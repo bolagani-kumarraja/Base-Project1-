@@ -1,0 +1,18 @@
+.fac{
+    display: flex;
+    flex-direction: row;
+    padding: 2px;
+    justify-content:space-between;
+}
+.fac Button{
+    background-color: aliceblue;
+    color: black;
+}
+.fac input{
+    width: 30%;
+    size: 4px;
+}
+.mt-5 button{
+    color: black;
+    justify-content: space-between;
+}
